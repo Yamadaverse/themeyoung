@@ -38,3 +38,6 @@ Unsupported OS/Panel versions stop installation.
 ## Payload contract
 
 See `docs/PAYLOAD.md`. The package is intentionally not marked feature-complete until the real modified files are exported and audited.
+
+#Support contact
+telegram https://t.me/Babehmodss
