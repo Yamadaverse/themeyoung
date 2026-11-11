@@ -1,0 +1,10 @@
+logs/*
+!logs/.gitkeep
+*.env
+.env
+.env.*
+*.sql
+*.sql.gz
+*.dump
+*.bak
+.DS_Store
