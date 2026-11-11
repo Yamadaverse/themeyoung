@@ -1,0 +1,2 @@
+# One relative path per line, relative to payload/.
+# Populate only after exporting and auditing exact modified files from the VPS.
