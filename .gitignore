@@ -1,10 +1,13 @@
-logs/*
-!logs/.gitkeep
-*.env
+# Never commit secrets or runtime data
 .env
 .env.*
+!.env.example
 *.sql
 *.sql.gz
 *.dump
-*.bak
+storage/
+public/storage
+vendor/
+node_modules/
+*.log
 .DS_Store
